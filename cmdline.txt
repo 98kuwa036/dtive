@@ -1,0 +1,1 @@
+console=serial0,115200 console=tty1 dwc_otg.lpm_enable=0 root=/dev/sda2 rootfstype=btrfs rootdelay=0 fsck.repair=yes rootwait
